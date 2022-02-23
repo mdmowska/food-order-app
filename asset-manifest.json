@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mdmowska/food-order-app/static/css/main.a00ab9f7.chunk.css",
+    "main.js": "/mdmowska/food-order-app/static/js/main.b69e221e.chunk.js",
+    "main.js.map": "/mdmowska/food-order-app/static/js/main.b69e221e.chunk.js.map",
+    "runtime-main.js": "/mdmowska/food-order-app/static/js/runtime-main.7a7f491c.js",
+    "runtime-main.js.map": "/mdmowska/food-order-app/static/js/runtime-main.7a7f491c.js.map",
+    "static/js/2.877444c4.chunk.js": "/mdmowska/food-order-app/static/js/2.877444c4.chunk.js",
+    "static/js/2.877444c4.chunk.js.map": "/mdmowska/food-order-app/static/js/2.877444c4.chunk.js.map",
+    "index.html": "/mdmowska/food-order-app/index.html",
+    "static/css/main.a00ab9f7.chunk.css.map": "/mdmowska/food-order-app/static/css/main.a00ab9f7.chunk.css.map",
+    "static/js/2.877444c4.chunk.js.LICENSE.txt": "/mdmowska/food-order-app/static/js/2.877444c4.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/mdmowska/food-order-app/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a7f491c.js",
+    "static/js/2.877444c4.chunk.js",
+    "static/css/main.a00ab9f7.chunk.css",
+    "static/js/main.b69e221e.chunk.js"
+  ]
+}
